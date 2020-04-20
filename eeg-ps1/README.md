@@ -4,7 +4,7 @@
 
 Complete the exercises in [eeg.ipynb](eeg.ipynb) with your group members. We've also included a notebook ([eeg-ps-inspector.ipynb](eeg-ps-inspector.ipynb)) to aid in inspection of the dataset.
 
-To run the code in this notebook, you'll need to install MNE v0.17.1:
+To run the code in this notebook, you'll need to install MNE v0.17.1, command below. The documentation for this version of MNE is [here](https://mne.tools/0.17/documentation.html).
 ```python
 pip install mne==0.17.1
 ```
