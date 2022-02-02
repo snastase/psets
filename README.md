@@ -1,8 +1,6 @@
 # Problem sets for NEU502b
 
 ### First-time setup
-To start, ...
-
 Log into your GitHub account, navigate to the [2022-NEU502b organization](https://github.com/2022-NEU502b), and click on the [`psets` repository](https://github.com/2022-NEU502b/psets).
 
 Click on the _Fork_ button at top right and select your own GitHub account. This "fork" operation creates a copy of the original `psets` repository on your personal GitHub account.
