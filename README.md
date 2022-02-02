@@ -9,7 +9,7 @@ Now, navigate to _your fork_ of the `psets` repository on your own account (e.g.
 
 Open a terminal and navigate (`cd`) to a location on your personal computer or the server where you want to work on the problem sets (activate your conda environment as well; e.g. `conda activate neu502b`). We recommend navigating to the directory that contains the `demos` directory (but not inside the `demos` directory!). For example, if your `demos` directory is at the following location `~/neu502b/demos`, navigate to the `~/neu502b` directory. We'll place the `psets` repository side-by-side to the `demos` directory.
 
-Finally, we'll "clone" _your fork_ of the `psets` repository:
+Finally, "clone" _your fork_ of the `psets` repository to your machine:
 ```
 cd ~/neu502b
 git clone https://github.com/username/psets.git
